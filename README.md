@@ -114,7 +114,7 @@ npx expo start
 <hr>
 
 <h2>📝 Code Commenting Standard</h2>
-<p>See <code><a href="./CODE_COMMENTING_GUIDELINES.html">CODE_COMMENTING_GUIDELINES.html</a></code> for detailed commenting rules.</p>
+<p>See <code><a href="./CODE_COMMENTING_GUIDELINES.md">CODE_COMMENTING_GUIDELINES.html</a></code> for detailed commenting rules.</p>
 <blockquote>
   All contributors must follow BrainDesk’s strict commenting standard for clarity and maintainability.
 </blockquote>
